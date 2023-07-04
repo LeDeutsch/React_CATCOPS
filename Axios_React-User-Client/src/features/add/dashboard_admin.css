@@ -1,0 +1,21 @@
+.container_admin {
+    background-color:  #f2f2f2;
+    opacity: 1;
+    visibility: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    height: 50vh;
+    width: 100vh;
+  }
+  
+  .title_admin {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .description_admin {
+    color: #666;
+    font-size: 16px;
+  }

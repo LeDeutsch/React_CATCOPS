@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "firstName": "Luc",
+      "lastName": "Messia",
+      "checkbox": "false",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
